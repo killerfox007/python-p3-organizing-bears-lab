@@ -1,0 +1,2 @@
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ('Mr.Chcolate', 2, 'M','brown','mean', TRUE),('Rowdy', 2, 'M','brown','mean', TRUE),('Tabitha', 2, 'M','brown','mean', TRUE),('Sergeant Brown
+', 2, 'M','brown','mean', TRUE),('Melissa', 2, 'M','brown','mean', TRUE),('Grinch', 2, 'M','brown','mean', TRUE),('Wendy', 2, 'F','brown','mean', TRUE),(NULL, 2, 'M','brown','mean', TRUE)
